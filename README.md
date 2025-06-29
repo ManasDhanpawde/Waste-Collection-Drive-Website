@@ -10,16 +10,33 @@ The website comprised several key informational sections:
 
 - **About E-Waste**
 
-Explanation of what constitutes e-waste, how it's generated, and why its management is crucial for environmental health.
+  Explanation of what constitutes e-waste, how it's generated, and why its management is crucial for environmental health.
 
 - **What You Can Donate**
 
-A categorized list of electronic items and plastic waste that could be safely donated during the drive.
+  A categorized list of electronic items and plastic waste that could be safely donated during the drive.
 
 - **Why & How to Donate**
 
-Insights into the environmental and social importance of donating e-waste responsibly, along with details on how citizens could participate in the drive.
+  Insights into the environmental and social importance of donating e-waste responsibly, along with details on how citizens could participate in the drive.
 
 - **Do's & Don'ts of E-Waste Management**
 
-Guidelines for handling, storing, and disposing of e-waste properly to avoid environmental harm.
+  Guidelines for handling, storing, and disposing of e-waste properly to avoid environmental harm.
+
+## 📣 Credits
+- Developed by: Manas Dhanpawde and Ritvikreddy Ravipati
+
+- For: Janwani Organization — as part of Pehel 2024 initiative.
+
+## 📜 License
+This project is for educational and non-commercial use as part of a social initiative. Please contact the repository owner for reuse or collaboration.
+
+## 📞 Contact
+For any queries or collaboration requests:
+
+- 📧 Email: mdhanpawde@gmail.com
+
+- 🌐 Website: [your-portfolio-or-linkedin-if-any]
+
+
